@@ -1,2 +1,2 @@
 # TubiLeap
-A simple lightweight and fast video player and IPTV cliente for Android
+A simple lightweight and fast video player and IPTV client for Android
